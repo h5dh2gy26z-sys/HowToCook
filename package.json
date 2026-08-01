@@ -33,6 +33,6 @@
     "markdownlint-cli":"0.48.0"
   },
   "devDependencies": {
-    "glob": "^7.2.0"
+    "glob": "^13.0.6"
   }
 }
